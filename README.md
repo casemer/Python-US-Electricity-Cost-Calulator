@@ -3,7 +3,7 @@ Using this program, openpyxl, and the excel sheet I created, you can caluclate t
 
 if you wish to add more items to the excel file, all you have to do is add the name (and alt name) in the first two columns and it's average (or specific if you know it) wattage. hit save, and run the python script!
 
-## To Use
+## How To Use
 1. Download the repo, or just the two files seperatly into a folder. 
 2. open the python script (either using python IDLE or typing CMD into the file explorer search while in the folder)
 3. If you are in cmd, type "python khwexcel.py" and enjoy
